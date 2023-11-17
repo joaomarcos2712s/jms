@@ -1,1 +1,5 @@
-
+titulo {color: rgb(0, 255, 221)}
+color: pink;
+.titulo {color: rgb(0, 217, 255); font-size:80px}
+.subtitulo {color: rgb(132, 0, 255); font-size:30px}
+body {background: rgb(236, 12, 12);}
